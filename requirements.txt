@@ -1,0 +1,3 @@
+telethon>=1.36,<2
+# нужен только для работы через socks-прокси (--proxy)
+python-socks[asyncio]>=2.4

@@ -1,0 +1,11 @@
+# Сессии Telegram и доступы — не коммитим
+sessions/
+*.session
+*.session-journal
+config.json
+.env
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
